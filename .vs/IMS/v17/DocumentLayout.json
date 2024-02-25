@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCA2E0C-483A-4B29-82F9-C0232A05AA10}|IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.plugins.efcore\\migrations\\20220127121859_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCA2E0C-483A-4B29-82F9-C0232A05AA10}|IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj|solutionrelative:ims.plugins.efcore\\migrations\\20220127121859_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCA2E0C-483A-4B29-82F9-C0232A05AA10}|IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.plugins.efcore\\imscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCA2E0C-483A-4B29-82F9-C0232A05AA10}|IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj|solutionrelative:ims.plugins.efcore\\imscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCA2E0C-483A-4B29-82F9-C0232A05AA10}|IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.plugins.efcore\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCA2E0C-483A-4B29-82F9-C0232A05AA10}|IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj|solutionrelative:ims.plugins.efcore\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\ims.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\ims.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCA2E0C-483A-4B29-82F9-C0232A05AA10}|IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.plugins.efcore\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCA2E0C-483A-4B29-82F9-C0232A05AA10}|IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj|solutionrelative:ims.plugins.efcore\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\ims.webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\ims.webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\controls\\errormessagecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\controls\\errormessagecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\controls\\inventoryitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\controls\\inventoryitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5327B826-30D7-4A7F-AA69-5AD3E4D6AA50}|IMS.UseCases\\IMS.UseCases.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.usecases\\inventories\\addinventoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5327B826-30D7-4A7F-AA69-5AD3E4D6AA50}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\inventories\\addinventoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\user\\desktop\\inventorymanagementsystem\\ims.webapp\\data\\migrations\\20230330082648_mymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DDB58F-0306-4DA3-A822-255E06993D87}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\data\\migrations\\20230330082648_mymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.Plugins.EFCore\\IMSContext.cs",
+              "RelativeDocumentMoniker": "IMS.Plugins.EFCore\\IMSContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.Plugins.EFCore\\IMSContext.cs",
+              "RelativeToolTip": "IMS.Plugins.EFCore\\IMSContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T18:36:02.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IMS.WebApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\appsettings.Development.json",
+              "RelativeToolTip": "IMS.WebApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T17:44:11.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.Plugins.EFCore\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "IMS.Plugins.EFCore\\InventoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.Plugins.EFCore\\InventoryRepository.cs",
+              "RelativeToolTip": "IMS.Plugins.EFCore\\InventoryRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:44:11.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20220127121859_Init.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.Plugins.EFCore\\Migrations\\20220127121859_Init.cs",
+              "RelativeDocumentMoniker": "IMS.Plugins.EFCore\\Migrations\\20220127121859_Init.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.Plugins.EFCore\\Migrations\\20220127121859_Init.cs",
+              "RelativeToolTip": "IMS.Plugins.EFCore\\Migrations\\20220127121859_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:44:11.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Program.cs",
+              "RelativeToolTip": "IMS.WebApp\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAIBJwEgAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:44:11.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "IMS.WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\appsettings.json",
+              "RelativeToolTip": "IMS.WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T17:44:11.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IMS.WebApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:44:11.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "IMS.WebApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T18:24:46.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "IMS.WebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "IMS.WebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-24T17:44:11.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.Plugins.EFCore\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "IMS.Plugins.EFCore\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.Plugins.EFCore\\ProductRepository.cs",
+              "RelativeToolTip": "IMS.Plugins.EFCore\\ProductRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:44:11.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Pages\\Index.razor",
+              "RelativeToolTip": "IMS.WebApp\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T17:44:11.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMS.WebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\IMS.WebApp.csproj",
+              "RelativeDocumentMoniker": "IMS.WebApp\\IMS.WebApp.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\IMS.WebApp.csproj",
+              "RelativeToolTip": "IMS.WebApp\\IMS.WebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-24T17:44:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IMS.WebApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T17:44:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InventoryItemComponent.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Controls\\InventoryItemComponent.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Controls\\InventoryItemComponent.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Controls\\InventoryItemComponent.razor",
+              "RelativeToolTip": "IMS.WebApp\\Controls\\InventoryItemComponent.razor",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T17:44:11.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMS.WebApp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\IMS.WebApp.csproj",
+              "RelativeDocumentMoniker": "IMS.WebApp\\IMS.WebApp.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\IMS.WebApp.csproj",
+              "RelativeToolTip": "IMS.WebApp\\IMS.WebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-24T17:44:11.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddInventoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "RelativeDocumentMoniker": "IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "RelativeToolTip": "IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:44:11.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20230330082648_MyMigration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Data\\Migrations\\20230330082648_MyMigration.cs",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Data\\Migrations\\20230330082648_MyMigration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Data\\Migrations\\20230330082648_MyMigration.cs",
+              "RelativeToolTip": "IMS.WebApp\\Data\\Migrations\\20230330082648_MyMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:44:11.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorMessageComponent.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Controls\\ErrorMessageComponent.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Controls\\ErrorMessageComponent.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Controls\\ErrorMessageComponent.razor",
+              "RelativeToolTip": "IMS.WebApp\\Controls\\ErrorMessageComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T17:44:11.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDisplay.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Shared\\LoginDisplay.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Shared\\LoginDisplay.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Shared\\LoginDisplay.razor",
+              "RelativeToolTip": "IMS.WebApp\\Shared\\LoginDisplay.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T17:44:11.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\InventoryManagementSystem\\IMS.WebApp\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "IMS.WebApp\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T17:44:11.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
